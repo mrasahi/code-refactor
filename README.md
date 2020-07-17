@@ -1,5 +1,5 @@
 # code-refactor
-Homework01
+Homework01 - Makoto Asahi
 # Summary
 
 The code was cleaned and formatted.
@@ -11,7 +11,7 @@ Navigation bar goes to their contents.
 Cover image was moved from the background to the front.
 
 > Weird 4px difference when I did this.
-margin-botton: 25px -> 21px to make up for it.
+> margin-botton: 25px -> 21px to make up for it.
 
 alt attributes were given to images.
 
